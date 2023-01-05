@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class NovaApplication
+class Nova
 
 fun main(args: Array<String>) {
-    runApplication<NovaApplication>(*args)
+    runApplication<Nova>(*args)
 }
